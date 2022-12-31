@@ -29,6 +29,7 @@ function pickRandomNum() {
   console.log("정답", computerNum);
 }
 
+
 function play() {
   let userValue = userInput.value;
 
